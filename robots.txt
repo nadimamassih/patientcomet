@@ -1,0 +1,77 @@
+# Patient Comet — robots.txt
+# Updated: 2026-06-11
+# Policy: Maximum AI visibility — all crawlers welcome
+# patientcomet.com
+
+# ─── Traditional search ──────────────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# ─── OpenAI (training + search + retrieval) ──────────────────────────
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# ─── Anthropic (training + search + retrieval) ───────────────────────
+# Note: Claude-Web and anthropic-ai are DEPRECATED — use ClaudeBot
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# ─── Perplexity (search-focused, no foundation model training) ───────
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# ─── Google AI (training separate from Googlebot) ────────────────────
+User-agent: Google-Extended
+Allow: /
+
+# ─── Meta AI ─────────────────────────────────────────────────────────
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# ─── Apple Intelligence ──────────────────────────────────────────────
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ─── Common Crawl (open training dataset) ────────────────────────────
+User-agent: CCBot
+Allow: /
+
+# ─── ByteDance ───────────────────────────────────────────────────────
+User-agent: Bytespider
+Allow: /
+
+# ─── Amazon ──────────────────────────────────────────────────────────
+User-agent: Amazonbot
+Allow: /
+
+# ─── Catch-all ───────────────────────────────────────────────────────
+User-agent: *
+Allow: /
+
+# ─── Discovery ───────────────────────────────────────────────────────
+Sitemap: https://patientcomet.com/sitemap.xml
+Sitemap: https://patientcomet.com/feed.xml
