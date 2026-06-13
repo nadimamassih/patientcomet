@@ -2,7 +2,7 @@
 
 > Patient Comet is an independent intelligence review on technology, creativity, and AI. One argument a week — researched to the root, openly opinionated, by a named practitioner.
 
-**Author:** Nadim A. Massih — Creative Product Strategist · Technology, Creative &amp; AI, based in the GCC
+**Author:** Nadim A. Massih — Creative Product Strategist, Technology, Creative & AI
 **Site:** https://patientcomet.com/
 **Publication cadence:** Weekly
 **Coverage:** AI strategy, enterprise AI, agentic systems, creative work, digital economics, software engineering
@@ -11,34 +11,36 @@
 **Machine-readable feed:** https://patientcomet.com/feed.xml
 **Sitemap:** https://patientcomet.com/sitemap.xml
 
-Patient Comet is an independent intelligence review. It publishes original analysis on the structural shifts in AI, software, creative work, and strategy. Each article takes one argument, researches it to the source, and says plainly what it means. Written by a practitioner for practitioners — not a media outlet reporting on AI, but a strategist thinking through it in public.
+Patient Comet publishes original analysis on the structural shifts in AI, software, creative work, and strategy. Each article takes one argument, researches it to the source, and says plainly what it means. Written by a practitioner for practitioners — not a media outlet reporting on AI, but a strategist thinking through it in public.
 
 ---
 
-## Latest Articles (newest first)
+## Articles (newest first)
 
-- [The AI Team Member: Enthusiastic, Error-Prone, and Off Every Invoice](https://patientcomet.com/essay-10.html): Seven of fourteen agencies surveyed by Digiday (March 2026) were absorbing AI compute costs rather than billing them. What teams actually spend on AI, and why no one charges for it. Published: 10 June 2026.
+- [AI Anatomy: Most Companies Built the Brain. Almost None Built the Body.](https://patientcomet.com/essay-09.html) — 81% of organisations have deployed an AI brain with no supporting body. This article maps every missing layer — memory, hands, a nervous system — and the four steps to build one. Published: 10 June 2026.
 
-- [AI Anatomy: The Body Most Companies Are Missing](https://patientcomet.com/essay-09.html): Most companies built a brain and called it a strategy. This article maps every part of the AI body they are missing — memory, hands, a nervous system — and what it takes to build one. Published: 9 June 2026.
+- [The Taste Problem: AI Can Match Anyone's Output. It Cannot Match Their Judgement.](https://patientcomet.com/essay-08.html) — When AI can fake polish and effort, the new proof of human presence is specificity, voice, and the visible mark of a real person's perspective. When everyone rents the same intelligence, judgement becomes the moat. Published: 5 June 2026.
 
-- [The Taste Problem](https://patientcomet.com/essay-08.html): When AI can fake polish and effort, the new proof of human presence is specificity, voice, and the visible mark of a real person's perspective. Published: 4 June 2026.
+- [The AI Team Member: Enthusiastic, Error-Prone, and Off Every Invoice](https://patientcomet.com/essay-10.html) — There is a fifth team member on every agency campaign: the AI. It works the whole project, costs close to $3,000 a campaign, and appears on no invoice. Seven of fourteen agencies surveyed by Digiday (March 2026) were absorbing AI compute costs rather than billing them. Published: 29 May 2026.
 
-- [When Code Is Cheap, What Do You Ship?](https://patientcomet.com/essay-07.html): Snap fired a thousand people because AI writes 65% of its code. The hardest problems in software have not changed. Technology changed. Engineering did not. Published: 28 May 2026.
+- [Own Your AI: Why Renting Intelligence Is About to Look Foolish](https://patientcomet.com/essay-03.html) — AI is shifting from a service you subscribe to, to a feature you ship. The companies that own their models will compound. The ones renting will pay twice. Published: 23 May 2026.
 
-- [The Second Customer](https://patientcomet.com/essay-06.html): AI-sourced traffic to US retail grew 393% in Q1 2026 and converts 42% better than human traffic. Most interfaces were not built for the second user — the AI agent acting on a buyer's behalf. Published: 4 June 2026.
+- [The Second Customer: Your Product Has Two Users Now. One Cannot Read Your Homepage.](https://patientcomet.com/essay-06.html) — AI-sourced traffic to US retail grew 393% in Q1 2026 and now converts 42% better than human traffic. Most product interfaces were not built for the second user — the AI agent acting on a buyer's behalf. Published: 18 May 2026.
 
-- [Anyone Can Make It Now](https://patientcomet.com/essay-05.html): Google made its film studio free. WPP cut a third of its creative headcount. What separates the winners is not access to the tools. Published: 3 June 2026.
+- [Anyone Can Make It Now: Making Things Is No Longer Enough](https://patientcomet.com/essay-05.html) — Google made its film studio free. WPP cut a third of its creative headcount. The tools gap has closed. What separates the winners is not access to the tools — it is what they do with them. Published: 13 May 2026.
 
-- [The Last Human Reader](https://patientcomet.com/essay-04.html): Condé Nast's CEO confirmed AI-driven traffic referrals to Vogue dropped more than 50% in 2025. The primary reader of most published content is no longer human. Published: 3 June 2026.
+- [The Last Human Reader: How AI Became Your First Audience](https://patientcomet.com/essay-04.html) — The pages you publish are no longer primarily read by people. They are read first by machines that decide whether to send a visitor your way. Conde Nast's CEO confirmed AI-driven traffic referrals to Vogue dropped more than 50% in 2025. Published: 8 May 2026.
 
-- [Own Your AI](https://patientcomet.com/essay-03.html): DeepSeek trained a world-class model for $294,000 and released it free. AI is shifting from a service you subscribe to, to a feature you ship. Published: 30 April 2026.
+- [The Cheap Code Problem: What Snap's Memo Got Right About AI and Engineering](https://patientcomet.com/essay-07.html) — Snap fired a thousand people after AI reached 65% of its code output. The hardest problems in software — requirements, judgment, reliability — have not changed. Technology changed. Engineering did not. Published: 3 May 2026.
 
-- [LLMflation: The Price of the Wrong Hands](https://patientcomet.com/essay-02.html): Microsoft cancelled its Claude Code licences after engineers burned through the company's entire annual AI budget in weeks. Published: June 2026.
+- [LLMflation: The AI Gets Cheaper. The Bill Keeps Growing. Neither Is Your Fault.](https://patientcomet.com/essay-02.html) — Microsoft cancelled its Claude Code licences after engineers burned through the company's entire annual AI budget in weeks. How AI cost becomes your fastest-growing line item without anyone noticing. Published: 28 April 2026.
 
-- [The Vibe Coder Fallacy](https://patientcomet.com/essay-01.html): Three AI-built apps breached in their first 90 days. The gap between a working demo and production-safe software is not closing. Published: 3 April 2026.
+- [Everyone Can Build It Now. Building It Is the Easy Part.](https://patientcomet.com/essay-01.html) — An AI-built social network was fully breached three days after launch. The gap between a working demo and production-safe software is not closing. The demo builds in an afternoon. The eleven layers underneath it do not. Published: 23 April 2026.
 
 ---
 
-## Optional
+## About the Author
 
-- [Patient Comet Home](https://patientcomet.com/): Full article index with tag filtering and search.
+Nadim A. Massih is a Creative Product Strategist with fifteen years across digital marketing, content creation, product design, and AI consultancy. Patient Comet is where that thinking becomes a point of view — deeply researched, openly opinionated, written from inside the work.
+
+- Publication: https://patientcomet.com/
