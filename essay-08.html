@@ -1024,7 +1024,7 @@ body:not([data-view="home"]) .backbtn{display:inline-flex}
 <script>
 (function(){
   var tg=document.getElementById('tg');
-  var saved=localStorage.getItem('pc-theme')||'light';
+  var saved=localStorage.getItem('pc-theme')||'dark';
   document.documentElement.setAttribute('data-theme',saved);
   if(tg)tg.addEventListener('click',function(){var t=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',t);localStorage.setItem('pc-theme',t);});
   document.querySelectorAll('.refs').forEach(function(r){var rail=r.querySelector('.refs-rail'),p=r.querySelector('.rprev'),n=r.querySelector('.rnext');if(p)p.addEventListener('click',function(){rail.scrollBy({left:-300,behavior:'smooth'});});if(n)n.addEventListener('click',function(){rail.scrollBy({left:300,behavior:'smooth'});});});
