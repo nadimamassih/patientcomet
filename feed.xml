@@ -5,12 +5,21 @@
   <link href="https://patientcomet.com/" rel="alternate"/>
   <link href="https://patientcomet.com/feed.xml" rel="self"/>
   <id>https://patientcomet.com/</id>
-  <updated>2026-06-11T00:00:00Z</updated>
+  <updated>2026-06-14T00:00:00Z</updated>
   <author>
     <name>Nadim A. Massih</name>
     <uri>https://patientcomet.com/</uri>
   </author>
   <rights>© 2026 Patient Comet — Nadim A. Massih</rights>
+  <entry>
+    <title>Seven Trends Reshaping Design: AI and the Next Three Years of Creative Work</title>
+    <link href="https://patientcomet.com/essay-12.html"/>
+    <id>https://patientcomet.com/essay-12.html</id>
+    <updated>2026-06-14T00:00:00Z</updated>
+    <published>2026-06-14T00:00:00Z</published>
+    <summary>AI will not replace designers. It wipes out the routine middle of creative work and pays whoever decides what is good. Seven forecasts for the next three years.</summary>
+    <category term="Forecast"/>
+  </entry>
   <entry>
     <title>The AI Team Member: Enthusiastic, Error-Prone, and Off Every Invoice</title>
     <link href="https://patientcomet.com/essay-10.html"/>

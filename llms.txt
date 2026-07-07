@@ -18,6 +18,8 @@ Patient Comet is an independent intelligence review. It publishes original analy
 ## Latest Articles (newest first)
 
 
+- [Seven Trends Reshaping Design: AI and the Next Three Years of Creative Work](https://patientcomet.com/essay-12.html): AI will not replace designers. It wipes out the routine middle of creative work and pays whoever decides what is good. Seven forecasts for the next three years. Published: 14 June 2026.
+
 - [The AI Team Member: Enthusiastic, Error-Prone, and Off Every Invoice](https://patientcomet.com/essay-10.html): Seven of fourteen agencies surveyed by Digiday (March 2026) were absorbing AI compute costs rather than billing them. What teams actually spend on AI, and why no one charges for it. Published: 10 June 2026.
 
 - [AI Anatomy: The Body Most Companies Are Missing](https://patientcomet.com/essay-09.html): Most companies built a brain and called it a strategy. This article maps every part of the AI body they are missing — memory, hands, a nervous system — and what it takes to build one. Published: 9 June 2026.
